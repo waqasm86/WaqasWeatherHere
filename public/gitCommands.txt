@@ -1,2 +1,6 @@
 git init
 git add .
+git commit -m "this ..."
+git remote add origin https://github.com/waqasm86/WaqasWeatherHere.git
+git branch -M main
+git push -u origin main
